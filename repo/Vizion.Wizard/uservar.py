@@ -17,7 +17,7 @@ ADDONTITLE = 'Vizion Wizard'
 BUILDERNAME = 'VizionWizard'
 EXCLUDES = [ADDON_ID, 'repository.openwizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'https://viziong.github.io/vizion_wizard/resources/text/builds.txt'
+BUILDFILE = 'https://viziong.github.io/vizion.repo/txt/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 10
