@@ -1,4 +1,4 @@
-name="Vizion Build"
+name="Vizion Build Beta"
 version="1.2"
 url="https://www.dropbox.com/s/vfg2x5umuro17aj/vizion_build-Beta_1.2.zip?dl=1"
 minor="http://"
