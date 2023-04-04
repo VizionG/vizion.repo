@@ -1,6 +1,6 @@
 name="Vizion Build Beta"
 version="1.4"
-url="https://www.dropbox.com/s/vnw79ec2dtfvtav/vizion_build-Beta_1.4.zip?dl=0"
+url="https://www.dropbox.com/s/vnw79ec2dtfvtav/vizion_build-Beta_1.4.zip?dl=1"
 minor="http://"
 gui="http://"
 kodi="20.1"
