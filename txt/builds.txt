@@ -1,4 +1,4 @@
-name="Vizion "MEO" Build"
+name="Vizion MEO Build"
 version="Beta 1.4.1"
 url="https://www.dropbox.com/s/8ffnjhrti194f29/vizion_build-Beta_1.4.1.zip?dl=1"
 minor="http://"
