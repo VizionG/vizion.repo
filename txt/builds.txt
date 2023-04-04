@@ -10,4 +10,4 @@ fanart="https://viziong.github.io/vizion.repo/repo/vision.repo/fanart.jpg"
 preview="http://"
 adult="no"
 info="http://"
-description="MotherShip Called
+description="MotherShip Called"
