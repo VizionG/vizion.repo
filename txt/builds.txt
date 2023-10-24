@@ -13,7 +13,7 @@ info="http://"
 description="MotherShip Called"
 
 name="Vizion MEO Build (TV)"
-version=" Beta 1.4.5"
+version=" Beta 1.4.5 (TV)"
 url="https://www.dropbox.com/scl/fi/w92k70d3c21vtabdm2n54/vizion_meo_build-beta_1.4.5-TV.zip?rlkey=u7wdktc0wjcnl2t30ytuknh0a&dl=1"
 minor="http://"
 gui="http://"
