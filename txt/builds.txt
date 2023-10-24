@@ -1,6 +1,6 @@
 name="Vizion MEO Build"
 version=" Beta 1.4.5"
-url="https://www.dropbox.com/scl/fi/w92k70d3c21vtabdm2n54/vizion_meo_build-beta_1.4.5-TV.zip?rlkey=u7wdktc0wjcnl2t30ytuknh0a&dl=1"
+url="https://www.dropbox.com/scl/fi/maboipm3azktm33kuwjv5/org.xbmc.kodi.zip?rlkey=2grj8ghur5terl4guhg0pbvhf&dl=1"
 minor="http://"
 gui="http://"
 kodi="20.2"
